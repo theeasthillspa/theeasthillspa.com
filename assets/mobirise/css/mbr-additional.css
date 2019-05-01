@@ -775,6 +775,7 @@ h6,
 
 
 
+
 #menu-1x .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -843,8 +844,22 @@ h6,
 #menu-1x .btn {
   font-size: 13px;
 }
-#extMsg-box2-43 SPAN {
-  color: #80541e;
+#content5-5n .mbr-section-title,
+#content5-5n p {
+  color: #fff;
+}
+#content5-5n .mbr-section-title {
+  text-align: center;
+  color: #735608;
+}
+#content5-5n P {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Lora', serif;
+  color: #735608;
+}
+#content5-5n .mbr-section-title SPAN {
+  color: #735608;
 }
 #msg-box3-2d .mbr-section-title,
 #msg-box3-2d p {
@@ -2680,7 +2695,7 @@ h6,
 }
 #extSlider1-2t H2 {
   text-align: center;
-  font-size: 36px;
+  font-size: 46px;
 }
 #extSlider1-2t P {
   text-align: left;
@@ -2711,6 +2726,7 @@ h6,
 #extFooter1-2s UL {
   color: #e6ac0c;
 }
+
 
 
 
@@ -2784,8 +2800,19 @@ h6,
 #menu-i .btn {
   font-size: 13px;
 }
-#extMsg-box3-42 SPAN {
-  color: #7c5a2e;
+#msg-box5-4w SPAN {
+  color: #543f04;
+}
+#msg-box5-4w H3 {
+  color: #735608;
+  font-size: 60px;
+}
+#msg-box5-4w P {
+  color: #543f04;
+  font-family: 'Lora', serif;
+}
+#msg-box5-4w I {
+  font-size: 20px;
 }
 #msg-box3-1f .mbr-section-title,
 #msg-box3-1f p {
@@ -2948,6 +2975,7 @@ h6,
 
 
 
+
 #menu-12 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3016,14 +3044,18 @@ h6,
 #menu-12 .btn {
   font-size: 13px;
 }
-#extMsg-box2-1w SPAN {
-  color: #f7da64;
+#slider3-5m H2 {
+  text-align: center;
+  font-size: 48px;
 }
-#extMsg-box2-1w P {
-  color: #ffffff;
+#slider3-5m P {
+  text-align: center;
 }
-#extMsg-box2-1w B {
-  color: #ffffff;
+#slider3-5m SPAN {
+  font-size: 60px;
+}
+#slider3-5m DIV {
+  font-family: 'Lora', serif;
 }
 #extTable1-1v .mbr-section-title {
   color: #ffffff;
@@ -3061,8 +3093,6 @@ h6,
 #extFooter1-k UL {
   color: #e6ac0c;
 }
-
-
 
 
 
@@ -3142,14 +3172,18 @@ h6,
 #extFooter1-2k UL {
   color: #e6ac0c;
 }
-#extMsg-box4-2m I {
-  font-size: 80px;
-  font-family: 'Noto Sans', sans-serif;
+#content5-4x .mbr-section-title,
+#content5-4x p {
+  color: #fff;
 }
-#extMsg-box4-2m SPAN {
-  text-align: right;
-  font-family: 'Raleway', sans-serif;
-  font-size: 84px;
+#content5-4x .mbr-section-title {
+  text-align: center;
+}
+#content5-4x .mbr-section-title SPAN {
+  font-size: 60px;
+}
+#content5-4x P {
+  text-align: center;
 }
 #msg-box3-2l .mbr-section-title,
 #msg-box3-2l p {
