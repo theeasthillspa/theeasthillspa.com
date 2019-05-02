@@ -2971,6 +2971,7 @@ h6,
 
 
 
+
 #menu-12 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3039,24 +3040,16 @@ h6,
 #menu-12 .btn {
   font-size: 13px;
 }
-#extTestimonials2-4u .card-block DIV {
+#msg-box5-4v H3 {
+  text-align: right;
+  color: #f3c649;
+}
+#msg-box5-4v P {
   color: #543f04;
-  font-size: 10px;
-}
-#extTestimonials2-4u .mbr-section-title DIV {
-  color: #ffffff;
-}
-#extTestimonials2-4u .mbr-section-title {
-  color: #ffffff;
-}
-#extTestimonials2-4u .card-footer > div SPAN {
-  color: #ffffff;
-  font-size: 22px;
-}
-#extTestimonials2-4u .card-footer > div {
   text-align: center;
-  color: #ffffff;
-  font-size: 22px;
+}
+#msg-box5-4v I {
+  font-family: 'Lora', serif;
 }
 #extTable1-1v .mbr-section-title {
   color: #ffffff;
