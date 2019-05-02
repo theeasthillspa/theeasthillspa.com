@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "home.html",
+    "currentPage": "SugaringandWaxing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -182,7 +182,7 @@
             "overlay": true,
             "overlayColor": "#8d796e",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">BOOK NOW</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK</a>"
           },
           "title": "Get in touch",
           "title1": "Don't hesitate to contact us",
@@ -4126,7 +4126,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">BOOK NOW</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">BOOK</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -7045,33 +7045,6 @@
           "_anchor": "menu-12"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#735608"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#735608",
-              "font-size": "19px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "4",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Honey,\n<div>have you\n</div><div>been sugared?</div>",
-          "meta": "We have dedicated ourselves to being the very best at sugaring so our clients have an experience that is second to none! \n<br>Why get sugared by the rest when you can get sugared by the best?",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4w"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -7114,8 +7087,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Honey,<br>have you<br>been sugared?</span>",
-          "text": "<i>We have dedicated ourselves to being the very best at sugaring so our clients have an experience that is second to none! </i><br><i>Why get sugared by the rest when you can get sugared by the best?</i>",
+          "title": "Honey,<br>have you<br>been sugared?",
+          "text": "<b><i>We have dedicated ourselves to being the very best at sugaring so our clients have an experience that is second to none! </i><br><i>Why get sugared by the rest when you can get sugared by the best?</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK</a>",
           "_tags": [
             "Theme"
@@ -7125,7 +7098,7 @@
           "_styles": {
             "H3": {
               "text-align": "right",
-              "color": "#f3c649"
+              "color": "#543f04"
             },
             "P": {
               "color": "#543f04",
