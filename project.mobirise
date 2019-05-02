@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "SugaringandWaxing.html",
+    "currentPage": "FAQoncologymassage.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 176,
+    "uniqCompNum": 177,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -182,7 +182,7 @@
             "overlay": true,
             "overlayColor": "#8d796e",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">BOOK</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">GET FREE TRIAL</a>"
           },
           "title": "Get in touch",
           "title1": "Don't hesitate to contact us",
@@ -2243,7 +2243,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
@@ -2530,7 +2530,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
@@ -4126,7 +4126,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">BOOK</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">GET FREE TRIAL</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -4624,7 +4624,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
@@ -4971,7 +4971,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
@@ -7045,6 +7045,33 @@
           "_anchor": "menu-12"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#735608"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#735608",
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Honey,\n<div>have you\n</div><div>been sugared?</div>",
+          "meta": "We have dedicated ourselves to being the very best at sugaring so our clients have an experience that is second to none! \n<br>Why get sugared by the rest when you can get sugared by the best?",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4w"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -7057,7 +7084,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f3c649",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7089,7 +7116,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Honey,<br>have you<br>been sugared?</span>",
           "text": "<i>We have dedicated ourselves to being the very best at sugaring so our clients have an experience that is second to none! </i><br><i>Why get sugared by the rest when you can get sugared by the best?</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK</a>",
           "_tags": [
             "Theme"
           ],
