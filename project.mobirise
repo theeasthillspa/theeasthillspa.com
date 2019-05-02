@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#ceab4f",
         "#1e1600",
         "#ffdd59",
         "#543f04",
         "#735608",
         "#ffe374",
-        "#f9f5f0",
-        "#fff6d2"
+        "#f9f5f0"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -7054,10 +7054,10 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7107,10 +7107,10 @@
             "I": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#ffffff"
+              "color": "#543f04"
             },
             "SPAN": {
-              "color": "#ffffff"
+              "color": "#735608"
             }
           }
         },
