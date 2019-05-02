@@ -3050,6 +3050,10 @@ h6,
 }
 #msg-box5-4v I {
   font-family: 'Lora', serif;
+  color: #ffffff;
+}
+#msg-box5-4v SPAN {
+  color: #ffffff;
 }
 #extTable1-1v .mbr-section-title {
   color: #ffffff;
