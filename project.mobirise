@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "home.html",
+    "currentPage": "OurTeam.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 174,
+    "uniqCompNum": 177,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -129,7 +129,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -182,7 +182,7 @@
             "overlay": true,
             "overlayColor": "#8d796e",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">BOOK NOW</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "Get in touch",
           "title1": "Don't hesitate to contact us",
@@ -348,7 +348,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -395,8 +395,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/massage-benefits-1650x1650.png",
             "parallax": false,
@@ -454,7 +454,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Swedish Massage</span>",
-          "text": "<p>&nbsp;The most well-known modality. The use of manual techniques to encourage the circulation of blood and lymph, loosen tight muscles and connective tissue, and promote relaxation. The relaxing nature of this type of massage makes it a good choice for someone getting their first massage, looking for a massage that will leave them feeling pampered, or for individuals suffering from anxiety, depression, or fatigue.\n</p><p>30 min- $50</p><p>60 min-$80</p><p>90 min-$100\n</p>",
+          "text": "<p>&nbsp;The most well-known modality. The use of manual techniques to encourage the circulation of blood and lymph, loosen tight muscles and connective tissue, and promote relaxation. The relaxing nature of this type of massage makes it a good choice for someone getting their first massage, looking for a massage that will leave them feeling pampered, or for individuals suffering from anxiety, depression, or fatigue.</p><p>\n</p><p>30 min-$50/60 min-$80/90 min-$100</p>",
           "_tags": [
             "Theme"
           ],
@@ -498,7 +498,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Deep Tissue</span>",
-          "text": "<p>Deep tissue massage is a popular modality among chronic pain sufferers with painful adhesions (\"knots\") in the muscle fibers. The increase in localized blood flow allows for the toxins that were released from those adhesions to be removed from the area by the stimulated circulatory system. This form of massage, focusing on the deeper layers of muscles and connective tissue, is typically accompanied by a series of orthopedic stretches to maximize the benefits of this treatment by increasing range of motion, reducing inflammation in the joints and relieving tension; all of which subsequently have their own list of additional benefits.\n</p><p>60 min-$90\n</p><p>90 min-$110</p>",
+          "text": "<p>Deep tissue massage is a popular modality among chronic pain sufferers with painful adhesions (\"knots\") in the muscle fibers. The increase in localized blood flow allows for the toxins that were released from those adhesions to be removed from the area by the stimulated circulatory system. This form of massage, focusing on the deeper layers of muscles and connective tissue, is typically accompanied by a series of orthopedic stretches to maximize the benefits of this treatment by increasing range of motion, reducing inflammation in the joints and relieving tension; all of which subsequently have their own list of additional benefits.\n</p><p>60 min-$90/90 min-$110</p>",
           "_tags": [
             "Theme"
           ],
@@ -542,7 +542,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Aromatherapy</span>",
-          "text": "<p>Aromatherapy massage is a bit like a Swedish massage, but incorporates the use of highly concentrated oils that have been used throughout history for their health-promoting properties. One or more oils are picked, based on your needs at the time, and mixed with a carrier oil or applied directly to the skin. This type of massage blends manual techniques with the additional benefits from essential oils.\r</p><p>60 min-$90\r</p><p>90 min-$110\r</p>",
+          "text": "<p>Aromatherapy massage is a bit like a Swedish massage, but incorporates the use of highly concentrated oils that have been used throughout history for their health-promoting properties. One or more oils are picked, based on your needs at the time, and mixed with a carrier oil or applied directly to the skin. This type of massage blends manual techniques with the additional benefits from essential oils.\n</p><p>60 min-$90/90 min-$110</p>",
           "_tags": [
             "Theme"
           ],
@@ -586,7 +586,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Sports Massage\r</span>",
-          "text": "<p>Focusing on the needs of the athlete, this type of massage blends manipulation of muscles with several types of stretches. It aids in recovery from activity related injuries and helps protect the body from future injuries by increasing the muscle’s potential and removing the excess toxins released by the muscles when they are challenged by increased activity levels.<br></p><p>60 min-$90\n</p><p>90 min-$110</p>",
+          "text": "<p>Focusing on the needs of the athlete, this type of massage blends manipulation of muscles with several types of stretches. It aids in recovery from activity related injuries and helps protect the body from future injuries by increasing the muscle’s potential and removing the excess toxins released by the muscles when they are challenged by increased activity levels.<br></p><p>60 min-$90/90 min-$110</p>",
           "_tags": [
             "Theme"
           ],
@@ -629,7 +629,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Hot Stone Massage\r</span>",
+          "title": "<span style=\"font-weight: normal;\">Hot Stone Massage</span>",
           "text": "<p>A hot stone massage involves the use of basalt stones, a volcanic rock that retains heat, to help you relax and ease tense muscles and damaged soft tissues throughout your body. This massage is available as a 90 minute service to allow time to address the whole body. The temperature of the stones can be adjusted to your comfort level.<br></p><p>$135</p>",
           "_tags": [
             "Theme"
@@ -673,7 +673,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Oncology Massage\r</span>",
+          "title": "<span style=\"font-weight: normal;\">Oncology Massage</span>",
           "text": "<p>Oncology Massage is the modification of existing massage therapy techniques in order to safely work with complications of cancer and its treatment. Adaptations to massage are required for the increased risk of lymphedema, the possibility of DVT and blood clots, low blood cell count, radiation or surgery, medications, medical devices, as well as many other potentially complicated adverse effects that may arise. Many cancer treatments require long-term modifications to facilitate the advantages of oncology massage in a way that will incorporate additional precautions for the safety and comfort of the client. Massage benefits can include a reduction of pain and fatigue, decreased anxiety and nausea, improved sleep, eased isolation, enhanced body image, and a greater sense of well-being.<br></p><p>60 min-$80</p>",
           "_tags": [
             "Theme"
@@ -718,7 +718,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Manual Lymphatic Drainage</span>",
-          "text": "<p>\n</p><p>Manual Lymphatic Drainage (MLD) is a gentle, yet effective technique that stimulates the lymphatic system to promote the removal of body toxins and excess fluid from the tissues by speeding the flow of lymph up to 100x the normal rate. MLD is an important part of treatment for lymphedema and the management of other edemas due to its propensity to move fluid. But MLD has other characteristics that have significant therapeutic advantages other than decongesting the tissue. It has a calming effect on the autonomic nervous system, boosts the immune system, detoxifies the body, speeds post-operative healing while improving the outcome, and has an analgesic effect, just to name a few.\n</p><p>30 min-$55\n</p><p>60 min-$90\n</p><p>90 min-$125</p>",
+          "text": "<p>\n</p><p>Manual Lymphatic Drainage (MLD) is a gentle, yet effective technique that stimulates the lymphatic system to promote the removal of body toxins and excess fluid from the tissues by speeding the flow of lymph up to 100x the normal rate. MLD is an important part of treatment for lymphedema and the management of other edemas due to its propensity to move fluid. But MLD has other characteristics that have significant therapeutic advantages other than decongesting the tissue. It has a calming effect on the autonomic nervous system, boosts the immune system, detoxifies the body, speeds post-operative healing while improving the outcome, and has an analgesic effect, just to name a few.\n</p><p>30 min-$55/60 min-$90/90 min-$125</p>",
           "_tags": [
             "Theme"
           ],
@@ -762,7 +762,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">MediCupping™\r</span>",
-          "text": "<p>This therapy utilizes glass or polycarbonate cups and a vacuum pistol, bulb or machine to create suction on the body surface. These cups are moved over the skin using gliding, shaking, popping and rotating techniques while gently pulling up on the cup, and are parked for a short time to facilitate joint mobilization or soft tissue release. This suction can reach deep into the soft tissue or can work superficially to pull inflammation and toxins toward the surface so that the skin and lymphatic system can readily eliminate them. Scar tissues often release quickly, despite the age of the injury or keloid tendencies. One of the most amazing aspects of this technique is the \"separation\" that the vacuum produces in tissue layers. This enables water absorption and renewed blood flow to undernourished and dehydrated tissue, which is invaluable in pre- and post-surgery treatments. It is becoming evident that separation of fused, congested soft tissue and increase in tissue function can be a catalyst for change in many current health conditions.&nbsp;<br></p><p>30 min target session-$55\n</p><p>Add-on to service-$20\n</p><p>Cellulite treatment-$35\n</p><p>Cellulite treatment package of 4-$100</p>",
+          "text": "<p>This therapy utilizes glass or polycarbonate cups and a vacuum pistol, bulb or machine to create suction on the body surface. These cups are moved over the skin using gliding, shaking, popping and rotating techniques while gently pulling up on the cup, and are parked for a short time to facilitate joint mobilization or soft tissue release. This suction can reach deep into the soft tissue or can work superficially to pull inflammation and toxins toward the surface so that the skin and lymphatic system can readily eliminate them. Scar tissues often release quickly, despite the age of the injury or keloid tendencies. One of the most amazing aspects of this technique is the \"separation\" that the vacuum produces in tissue layers. This enables water absorption and renewed blood flow to undernourished and dehydrated tissue, which is invaluable in pre- and post-surgery treatments. It is becoming evident that separation of fused, congested soft tissue and increase in tissue function can be a catalyst for change in many current health conditions.&nbsp;<br></p><p>30 min target session-$55/Cellulite treatment-$35/Cellulite treatment package of 4-$100</p>",
           "_tags": [
             "Theme"
           ],
@@ -909,7 +909,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1143,7 +1143,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1648,7 +1648,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1881,7 +1881,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2214,7 +2214,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2243,17 +2243,17 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#f3c649",
             "bgText": "You're in good hands!",
-            "bgTextStyle": "Lato",
+            "bgTextStyle": "Lora",
             "bgTextColor": "#e9b72d",
-            "bgTextSize": "150",
+            "bgTextSize": "100",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2501,7 +2501,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2530,17 +2530,17 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#f3c649",
             "bgText": "You're in good hands!",
-            "bgTextStyle": "Lato",
+            "bgTextStyle": "Lora",
             "bgTextColor": "#e9b72d",
-            "bgTextSize": "150",
+            "bgTextSize": "100",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2818,7 +2818,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3360,7 +3360,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3572,7 +3572,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4126,7 +4126,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">BOOK NOW</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -4303,7 +4303,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4343,7 +4343,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgColor": "#f7da64"
           },
           "title": "<span style=\"font-weight: normal;\"><i>Airbrush Spray Tanning</i></span>",
@@ -4595,7 +4595,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4624,17 +4624,17 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#f3c649",
             "bgText": "You're in good hands!",
-            "bgTextStyle": "Lato",
+            "bgTextStyle": "Lora",
             "bgTextColor": "#e9b72d",
-            "bgTextSize": "150",
+            "bgTextSize": "100",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4942,7 +4942,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4971,17 +4971,17 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#f3c649",
             "bgText": "You're in good hands!",
-            "bgTextStyle": "Lato",
+            "bgTextStyle": "Lora",
             "bgTextColor": "#e9b72d",
-            "bgTextSize": "150",
+            "bgTextSize": "100",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5220,7 +5220,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5266,7 +5266,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "1",
@@ -5822,7 +5822,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5861,8 +5861,8 @@
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": "5",
+            "showMeta": false,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -5876,128 +5876,144 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
             "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
+            "timeout": "4",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showBullets": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-19-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "timeout": "6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1249.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "DETOXIFIES",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "<br><br>One of the biggest health benefits of infrared energy is its ability to increase your blood circulation and stimulate the sweat glands, releasing built-up toxins in the body.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
-                "overlayColor": "#000000",
-                "overlayOpacity": "0.8"
+                "text": "<p>\n</p><div><span style=\"font-size: 1.125rem;\">DETOXIFIES</span></div><div><span style=\"font-size: 1.125rem;\">One of the biggest health benefits of infrared energy is its ability to increase your blood circulation and stimulate the sweat glands, releasing built-up toxins in the body.&nbsp;</span><br><span style=\"font-size: 1.125rem;\"></span></div>",
+                "authorName": "John Smith",
+                "authorBio": "Developer",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face1.jpg",
+                    "class": "img-circle",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1275.jpg",
+                "active": false,
+                "text": "<p>\n</p><div><span style=\"font-size: 1.125rem;\">INCREASES METABOLISM</span></div><div><span style=\"font-size: 1.125rem;\">Relax in the gentle infrared heat while your body is hard at work producing sweat, pumping blood and burning calories.&nbsp;</span><br><span style=\"font-size: 1.125rem;\"></span></div>",
+                "authorName": "Abanoub S.",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face2.jpg",
+                    "class": "img-circle",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>\n</p><div>REDUCES STRESS AND FATIGUE</div><div>Enjoy the release as you melt away any built-up tension and stress. Just a few minutes in the gentle warmth of our FAR infrared sauna cocoon will help you feel relaxed, rejuvenated and renewed.</div>",
+                "authorName": "Suffian A.",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face3.jpg",
+                    "class": "img-circle",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
                 "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">INCREASES METABOLISM</span>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br><br>Relax in the gentle infrared heat while your body is hard at work producing sweat, pumping blood and burning calories.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
-                "overlayOpacity": "0.9"
+                "text": "<p>\n</p><div>\n</div><div>\n</div><div>BOOSTS IMMUNE SYSTEM</div><div>The deep heating from the Infrared sauna cocoon will raise your core body temperature, inducing an artificial fever. This enhanced immune system, combined with improved elimination of toxins and wastes via intense sweating, increases your overall health and resistance to disease.</div><div><span style=\"font-size: 1.125rem;\"></span></div>",
+                "authorName": "John Smith",
+                "authorBio": "Developer",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face1.jpg",
+                    "class": "img-circle",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/mbr-19-1920x1280.jpg",
+                "alt": "",
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1148.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">REDUCES STRESS AND FATIGUE</span>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "<br><br>Enjoy the release as you melt away any built-up tension and stress. Just a few minutes in the gentle warmth of our FAR infrared sauna cocoon will help you feel relaxed, rejuvenated and renewed. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
-                "overlayOpacity": "0.8",
-                "overlayColor": "#000000"
+                "text": "<p>\n</p><div>\n</div><div>\n</div><div>REDUCES PAIN</div><div>Far Infrared heat relieves muscle tension. The deep heat helps peripheral blood vessels dilate, bringing relief and healing to muscle and soft tissue injuries. Infrared heat also reduces soreness on nerve endings and muscle spasms as muscle joints and fibers are heated.</div><div><span style=\"font-size: 1.125rem;\"></span></div>",
+                "authorName": "John Smith",
+                "authorBio": "Developer",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face1.jpg",
+                    "class": "img-circle",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/mbr-19-1920x1280.jpg",
+                "alt": "",
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-10-1920x1280.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "REDUCES CELLULITE",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br><br>Studies have shown that the use of FAR infrared heat can increase heart rate and localized blood circulation, which essentially reverses trends towards the accumulation of liquids in the fat cells to reduce the appearance of cellulite.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
-                "overlayOpacity": "0.9",
-                "overlayColor": "#000000"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1173.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOSTS IMMUNE SYSTEM",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br><br>The deep heating from the Infrared sauna cocoon will raise your core body temperature, inducing an artificial fever. This enhanced immune system, combined with improved elimination of toxins and wastes via intense sweating, increases your overall health and resistance to disease.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
-                "overlayColor": "#000000",
-                "overlayOpacity": "0.8"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1236.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "REDUCES PAIN",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "<br><br>Far Infrared heat relieves muscle tension. The deep heat helps peripheral blood vessels dilate, bringing relief and healing to muscle and soft tissue injuries.  Infrared heat also reduces soreness on nerve endings and muscle spasms as muscle joints and fibers are heated.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
-                "overlayColor": "#000000",
-                "overlayOpacity": "0.8"
+                "text": "<p>\n</p><div>\n</div><div>\n</div><div>REDUCES CELLULITE</div><div>Studies have shown that the use of FAR infrared heat can increase heart rate and localized blood circulation, which essentially reverses trends towards the accumulation of liquids in the fat cells to reduce the appearance of cellulite.</div>",
+                "authorName": "Suffian A.",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face3.jpg",
+                    "class": "img-circle",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/mbr-19-1920x1280.jpg",
+                "alt": "",
+                "title": ""
               }
             ]
           },
-          "articleLayout": false,
+          "title": "Benefits of Infrared Sauna Treatments",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extSlider1",
-          "_anchor": "extSlider1-2t",
+          "_name": "extTestimonials2",
+          "_anchor": "extTestimonials2-4v",
           "_styles": {
-            "H2": {
-              "text-align": "center",
-              "font-size": "46px"
+            ".mbr-section-title": {
+              "color": "#543f04"
             },
-            "P": {
-              "text-align": "left"
-            },
-            "SPAN": {
-              "font-size": "36px"
+            ".card-block DIV": {
+              "color": "#735608"
             }
           }
         },
@@ -6010,7 +6026,7 @@
             "showButtons": true,
             "iconsBgColor": "#e6e6e6",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "columns": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
@@ -6248,7 +6264,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -7004,7 +7020,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -7030,81 +7046,106 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
             "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": "0",
+            "timeout": "3",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "showBullets": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sugaring4-5-940x627.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "timeout": "5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/sugaring-1038x550.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">Honey,&nbsp;</span><br><span style=\"font-weight: normal;\">have you </span><br><span style=\"font-weight: normal;\">been sugared?</span>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br><br>Pricing and information about our hair removal options are available below.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
+                "text": "<p>\n</p><div><span style=\"font-size: 1.125rem;\">We have dedicated ourselves to being the very best at sugaring so our clients have an experience that is second to none!&nbsp;</span></div>",
+                "authorName": "<span style=\"font-weight: normal;\"><i>You're in good hands!</i></span>",
+                "authorBio": "Developer",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face1.jpg",
+                    "class": "img-circle",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sugaring-image-960x640.jpg",
                 "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">Honey, \n</span><div><span style=\"font-weight: normal;\">have you \n</span></div><div><span style=\"font-weight: normal;\">been sugared?</span></div>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br><br>At East Hill Massage and Aesthetics, you're in good hands!",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.8"
+                "text": "<p>\r</p><div><span style=\"font-size: 1.125rem;\">Pricing and information about our hair removal options are available below.</span><br><span style=\"font-size: 1.125rem;\"></span></div>",
+                "authorName": "<span style=\"font-weight: normal;\"><i>You're in good hands!</i></span>",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@THEME_PATH@-blocks/components/_images/face2.jpg",
+                    "class": "img-circle",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sugar-4-1025x289.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">Honey, \n</span><div><span style=\"font-weight: normal;\">have you \n</span></div><div><span style=\"font-weight: normal;\">been sugared?</span></div>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br><br>We have dedicated ourselves to being the very best at sugaring so our clients have an experience that is second to none!&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.8"
+                "text": "<p>\n</p><div><span style=\"font-size: 1.125rem;\">At East Hill Massage and Aesthetics, you're in good hands!</span></div><div><span style=\"font-size: 1.125rem;\"></span></div>",
+                "authorName": "<span style=\"font-weight: normal;\"><i>You're in good hands!</i></span>",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/sugaring-160x85.jpg",
+                    "class": "img-circle",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "link": "",
+                    "alt": "sugaring",
+                    "title": "sugaring"
+                  }
+                }
               }
             ]
           },
-          "articleLayout": false,
+          "title": "Honey,\n<div>have you\n</div><div>been sugared?</div>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "slider3",
-          "_anchor": "slider3-5m",
+          "_name": "extTestimonials2",
+          "_anchor": "extTestimonials2-4u",
           "_styles": {
-            "H2": {
+            ".card-block DIV": {
+              "color": "#543f04",
+              "font-size": "10px"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div SPAN": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            ".card-footer > div": {
               "text-align": "center",
-              "font-size": "48px"
-            },
-            "P": {
-              "text-align": "center"
-            },
-            "SPAN": {
-              "font-size": "60px"
-            },
-            "DIV": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "color": "#ffffff",
+              "font-size": "22px"
             }
           }
         },
@@ -7112,10 +7153,10 @@
           "_params": {
             "showTitle": true,
             "showSearch": false,
-            "rowСount": "5",
-            "colCount": "6",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "rowСount": "7",
+            "colCount": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/sky.jpg",
             "parallax": true,
@@ -7135,7 +7176,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Area</th><th>Price</th><th>Area</th><th>Price</th><th>Area</th><th>Price</th></tr></thead><tbody><tr><td>Brazilian\n<br></td><td>$65 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></td><td>&nbsp;Bikini\n<br></td><td>$45 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td><td>Chest\n<br></td><td>$40</td></tr><tr><td>Back\n<br></td><td>$50</td><td>Full Arms</td><td>$40</td><td>Half Arms</td><td>$30</td></tr><tr><td>Full Legs</td><td>$100</td><td>Half Legs</td><td>$55</td><td>Stomach\n<br></td><td>$20</td></tr><tr><td>Underarms\n<br></td><td>$20</td><td>Brow Shaping\n<br></td><td>$15</td><td>Chin\n<br></td><td>$10</td></tr><tr><td>Lips&nbsp;<br></td><td>$10</td><td>Full Face<br></td><td>$30</td><td>Full Body&nbsp;<br></td><td>Call</td></tr></tbody>",
+          "table": "<thead><tr><th>Area</th><th>Price</th><th>Area</th><th>Price</th></tr></thead><tbody><tr><td>Brazilian\n<br></td><td>$65 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></td><td>&nbsp;Bikini\n<br></td><td>$45 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td></tr><tr><td>Back\n<br></td><td>$50</td><td>Chest&nbsp;</td><td>$40</td></tr><tr><td>Full Legs</td><td>$100</td><td>Half Legs</td><td>$55</td></tr><tr><td>Underarms\n<br></td><td>$20</td><td>Brow Shaping\n<br></td><td>$15</td></tr><tr><td>Full Arms</td><td>$40</td><td>Half Arms</td><td>$30</td></tr><tr><td>Stomach&nbsp;</td><td>$20</td><td>Chin&nbsp;</td><td>$10</td></tr><tr><td>Lips&nbsp;<br></td><td>$10</td><td>Full Face<br></td><td>$30</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -7165,7 +7206,7 @@
             "showTitles": true,
             "tabs": "2",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1281.jpg",
             "parallax": true,
@@ -7176,18 +7217,18 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#a38f84",
-            "overlayOpacity": "0.9"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
           },
-          "title1": "<b>Sugaring</b>",
-          "title2": "<b>Waxing</b>",
+          "title1": "<b>Sugaring&nbsp;</b>",
+          "title2": "<b>Waxing</b><br><i>Why get waxed by the rest?\n</i><div><i>You should get waxed by the best!</i></div>",
           "title3": "TRENDY WEBSITE BLOCKS",
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-primary\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1t\" aria-expanded=\"false\">Sugaring</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1t\" aria-expanded=\"true\">Waxing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1t\" aria-expanded=\"false\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1t\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1t\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1t\">Beautiful</a></li>",
-          "text1": "Sugaring is a form of hair removal that dates back to the civilizations of ancient Mesopotamia, Egypt, and Greece. The sugar paste we use is made solely of sugar, water, and citric acid. It’s completely organic and all natural. Because there are no harsh chemicals and no chemicals can be added to the sugar paste, this is an excellent option for those with sensitive skin, those who are prone to skin irritation, or simply those who advocate for a more natural approach to life.&nbsp;Since sugar paste is water soluble, it won’t stick to live skin cells because of the high water content. Leaving the live skin cells intact, means less irritation for your beautiful skin. Sugaring leaves skin feeling soft and smooth!<br><br><b>Pros of sugaring:</b><br>-Clients who prefer sugaring say that sugaring hurts less than waxing. \n<br>-Sugaring is more natural and gentle on the skin.\n<br>-Sugaring lasts just as long as waxing- sometimes even longer! \n<br>-Sugar is a purely organic paste made with only 3 ingredients- sugar, citric acid, and water.&nbsp;<br>-The melting point of sugar is lower than wax, therefore it does not feel as hot on your skin.<br>-Sugaring has the ability to remove much shorter hair than waxing–about 1/8 of an inch.<br><br><b><br></b><b>Ask your aesthetician about sugaring...\n<br>We love it &amp; we know you will too!&nbsp;</b><br>",
-          "text2": "Waxing is hair removal that uses soy wax to remove body hair from its root, so lasts longer than shaving.&nbsp;It involves applying hot wax to hair in the direction of hair growth using an applicator stick. A cloth strip is then applied firmly on top of the wax, which is then pulled quickly against the direction of growth for removal. This process gives your skin a wonderful exfoliation, removing dead and lifeless layers of skin and promoting cell turnover. Waxing can last up to 2 weeks before new hair grows back in. To wax again, you need to wait until the new hairs grow 1/4 inch otherwise the wax will not be able to grab the hairs to remove hair. At East Hill Massage and Aesthetics we proudly use all natural and pure organic soy wax that is enriched with Vitamin E and other wholesome nutrients to maximize hair removal and protect the skin. Still have questions? Check out the \"Sugaring &amp; Waxing\" section of our FAQ tab or give us a call at 850-332-5527 for a free, no obligation consult.&nbsp;<br><br><br><b>Why get waxed by the rest?<br>You should get waxed by the best!</b>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-info\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-1t\" aria-expanded=\"false\">Sugaring</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-info active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-1t\" aria-expanded=\"true\">Waxing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-1t\" aria-expanded=\"false\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-1t\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-1t\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-1t\">Beautiful</a></li>",
+          "text1": "<b>Sugaring is a form of hair removal that dates back to the civilizations of ancient Mesopotamia, Egypt, and Greece. The sugar paste we use is made solely of sugar, water, and citric acid. It’s completely organic and all natural. Because there are no harsh chemicals and no chemicals can be added to the sugar paste, this is an excellent option for those with sensitive skin, those who are prone to skin irritation, or simply those who advocate for a more natural approach to life.&nbsp;Since sugar paste is water soluble, it won’t stick to live skin cells because of the high water content. Leaving the live skin cells intact, means less irritation for your beautiful skin. Sugaring leaves skin feeling soft and smooth!<br><br>Pros of sugaring:<br>-Clients who prefer sugaring say that sugaring hurts less than waxing. \n<br>-Sugaring is more natural and gentle on the skin.\n<br>-Sugaring lasts just as long as waxing- sometimes even longer! \n<br>-Sugar is a purely organic paste made with only 3 ingredients- sugar, citric acid, and water.&nbsp;<br>-The melting point of sugar is lower than wax, therefore it does not feel as hot on your skin.<br>-Sugaring has the ability to remove much shorter hair than waxing–about 1/8 of an inch.<br><br><br>Ask your aesthetician about sugaring...\n<br>We love it &amp; we know you will too!&nbsp;</b><br>",
+          "text2": "<b>Waxing is hair removal that uses soy wax to remove body hair from its root, so lasts longer than shaving.&nbsp;It involves applying hot wax to hair in the direction of hair growth using an applicator stick. A cloth strip is then applied firmly on top of the wax, which is then pulled quickly against the direction of growth for removal. This process gives your skin a wonderful exfoliation, removing dead and lifeless layers of skin and promoting cell turnover. Waxing can last up to 2 weeks before new hair grows back in. To wax again, you need to wait until the new hairs grow 1/4 inch otherwise the wax will not be able to grab the hairs to remove hair. At East Hill Massage and Aesthetics we proudly use all natural and pure organic soy wax that is enriched with Vitamin E and other wholesome nutrients to maximize hair removal and protect the skin. </b><br><br><b>Still have questions? Check out the \"Sugaring &amp; Waxing\" section of our FAQ tab or give us a call at 850-332-5527 for a free, no obligation consult.&nbsp;<br></b>",
           "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
@@ -7203,14 +7244,15 @@
               "color": "#f3c649"
             },
             "I": {
-              "color": "#593c18"
+              "color": "#593c18",
+              "font-size": "23px"
             },
             "P": {
-              "color": "#ffffff",
-              "text-align": "center"
+              "color": "#543f04",
+              "text-align": "left"
             },
             "B": {
-              "color": "#f3c649"
+              "color": "#543f04"
             }
           }
         },
@@ -7366,7 +7408,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -7463,8 +7505,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1279.jpg",
             "parallax": true,
@@ -7476,7 +7518,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.8"
           },
           "title": "<span style=\"font-weight: normal;\"><i>Lash Lift &amp; Tint</i></span>",
           "caption": "<p>Dramatically beautiful lashes in the blink of an eye</p>",
@@ -7550,7 +7592,7 @@
             "showTitle": true,
             "showText": true,
             "showButton": true,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -7658,7 +7700,7 @@
             "fontColor": "#80541d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FacialsandPeels.html\">Facials &amp; Peels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SugaringandWaxing.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Massage Therapy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"BodyTreatments.html\">Infrared Body Treatments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"spraytan.html\">Airbrush Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lashes.html\">Lash Lift &amp; Tint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OurTeam.html\">Our Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.vagaro.com/theeasthillspa/gift-certificates\" target=\"_blank\">Gift Certificates</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blogs.html\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FAQspraytanning.html\">Spray Tanning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncologymassage.html\">Oncology Massage</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" target=\"_blank\">Book now!</a></li>",
           "logo": {
             "image": {
               "active": true,

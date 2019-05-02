@@ -2693,15 +2693,11 @@ h6,
 #header3-2w .mbr-section-subtitle {
   color: #593c18;
 }
-#extSlider1-2t H2 {
-  text-align: center;
-  font-size: 46px;
+#extTestimonials2-4v .mbr-section-title {
+  color: #543f04;
 }
-#extSlider1-2t P {
-  text-align: left;
-}
-#extSlider1-2t SPAN {
-  font-size: 36px;
+#extTestimonials2-4v .card-block DIV {
+  color: #735608;
 }
 #extFeatures5-2x .mbr-iconfont-features4 {
   color: #e6e6e6 !important;
@@ -2975,7 +2971,6 @@ h6,
 
 
 
-
 #menu-12 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3044,18 +3039,24 @@ h6,
 #menu-12 .btn {
   font-size: 13px;
 }
-#slider3-5m H2 {
+#extTestimonials2-4u .card-block DIV {
+  color: #543f04;
+  font-size: 10px;
+}
+#extTestimonials2-4u .mbr-section-title DIV {
+  color: #ffffff;
+}
+#extTestimonials2-4u .mbr-section-title {
+  color: #ffffff;
+}
+#extTestimonials2-4u .card-footer > div SPAN {
+  color: #ffffff;
+  font-size: 22px;
+}
+#extTestimonials2-4u .card-footer > div {
   text-align: center;
-  font-size: 48px;
-}
-#slider3-5m P {
-  text-align: center;
-}
-#slider3-5m SPAN {
-  font-size: 60px;
-}
-#slider3-5m DIV {
-  font-family: 'Lora', serif;
+  color: #ffffff;
+  font-size: 22px;
 }
 #extTable1-1v .mbr-section-title {
   color: #ffffff;
@@ -3077,13 +3078,14 @@ h6,
 }
 #extTabs1-1t I {
   color: #593c18;
+  font-size: 23px;
 }
 #extTabs1-1t P {
-  color: #ffffff;
-  text-align: center;
+  color: #543f04;
+  text-align: left;
 }
 #extTabs1-1t B {
-  color: #f3c649;
+  color: #543f04;
 }
 #extFooter1-k .mbr-section-title SPAN {
   font-family: 'Lora', serif;
