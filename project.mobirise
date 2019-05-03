@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "BodyTreatments.html",
+    "currentPage": "Lashes.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -182,7 +182,7 @@
             "overlay": true,
             "overlayColor": "#8d796e",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">Book</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">Book Now</a>"
           },
           "title": "Get in touch",
           "title1": "Don't hesitate to contact us",
@@ -396,7 +396,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/ehma-1-1540x500.jpg",
             "parallax": false,
@@ -408,7 +408,7 @@
             },
             "overlay": true,
             "overlayColor": "#cccccc",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "title": "Massage Therapy",
           "caption": "<p><i style=\"font-size: 1.07rem;\">At East Hill Massage and Aesthetics, you're in good hands.</i></p>",
@@ -4126,7 +4126,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">Book</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">Book Now</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -7421,13 +7421,20 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#735608"
             },
             ".mbr-section-title SPAN": {
               "font-size": "60px"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#735608",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title I": {
+              "color": "#735608"
             }
           },
           "_params": {
@@ -7445,11 +7452,11 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#7c706b",
-            "overlayOpacity": "0.9"
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.8"
           },
-          "title": "<i>Lash Lift &amp; Tint</i>",
-          "caption": "<p><b>Envious lashes&nbsp;<span style=\"font-size: 1.07rem;\">in the blink of an eye</span></b></p>",
+          "title": "Lash Lift &amp; Tint",
+          "caption": "<p><b><i>Envious lashes&nbsp;<span style=\"font-size: 1.07rem;\">in the blink of an eye</span></i></b></p>",
           "_tags": [
             "Theme"
           ],

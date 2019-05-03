@@ -3089,6 +3089,7 @@ h6,
 
 
 
+
 #menu-2j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3171,12 +3172,18 @@ h6,
 }
 #content5-4x .mbr-section-title {
   text-align: center;
+  color: #735608;
 }
 #content5-4x .mbr-section-title SPAN {
   font-size: 60px;
 }
 #content5-4x P {
   text-align: center;
+  color: #735608;
+  font-family: 'Lora', serif;
+}
+#content5-4x .mbr-section-title I {
+  color: #735608;
 }
 #msg-box3-2l .mbr-section-title,
 #msg-box3-2l p {
