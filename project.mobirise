@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "home.html",
+    "currentPage": "sugaringandwaxing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -182,7 +182,7 @@
             "overlay": true,
             "overlayColor": "#8d796e",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">BOOK</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK</a>"
           },
           "title": "Get in touch",
           "title1": "Don't hesitate to contact us",
@@ -4126,7 +4126,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">BOOK</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -8055,7 +8055,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f3c649",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8087,7 +8087,7 @@
           },
           "title": "Honey,\n<div>have you\n</div><div>been sugared?</div>",
           "text": "We have dedicated ourselves to being the very best at sugaring so our clients have an experience that is second to none! \n<br>Why get sugared by the rest when you can get sugared by the best?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK</a>",
           "_tags": [
             "Theme"
           ],
@@ -8095,7 +8095,7 @@
           "_anchor": "msg-box5-4w",
           "_styles": {
             "H3": {
-              "color": "#735608",
+              "color": "#f3c649",
               "font-size": "60px"
             },
             "P": {
@@ -8103,7 +8103,7 @@
               "color": "#735608"
             },
             "DIV": {
-              "color": "#735608",
+              "color": "#f3c649",
               "font-size": "60px"
             }
           }
@@ -8114,11 +8114,11 @@
             "tabs": "2",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1279.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#735608",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8133,7 +8133,7 @@
           "title4": "Waxing\n<div><i>Why get waxed by the rest?\n</i></div><div><i>You should get waxed by the best!</i></div>",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-51\" aria-expanded=\"true\">Sugaring</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-51\" aria-expanded=\"false\">Waxing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-51\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-51\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-51\" aria-expanded=\"false\">Sugaring</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-51\" aria-expanded=\"true\">Waxing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-51\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-51\">Beautiful</a></li>",
           "text1": "Sugaring is a form of hair removal that dates back to the civilizations of ancient Mesopotamia, Egypt, and Greece. The sugar paste we use is made solely of sugar, water, and citric acid. It’s completely organic and all natural. Because there are no harsh chemicals and no chemicals can be added to the sugar paste, this is an excellent option for those with sensitive skin, those who are prone to skin irritation, or simply those who advocate for a more natural approach to life. Since sugar paste is water soluble, it won’t stick to live skin cells because of the high water content. Leaving the live skin cells intact, means less irritation for your beautiful skin. Sugaring leaves skin feeling soft and smooth!\n<br>\n<br>Pros of sugaring:\n<br>-Clients who prefer sugaring say that sugaring hurts less than waxing. \n<br>-Sugaring is more natural and gentle on the skin. \n<br>-Sugaring lasts just as long as waxing- sometimes even longer! \n<br>-Sugar is a purely organic paste made with only 3 ingredients- sugar, citric acid, and water. \n<br>-The melting point of sugar is lower than wax, therefore it does not feel as hot on your skin.\n<br>-Sugaring has the ability to remove much shorter hair than waxing–about 1/8 of an inch.\n<br>\n<br>\n<br>Ask your aesthetician about sugaring... \n<br>We love it &amp; we know you will too!&nbsp;",
           "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -8171,7 +8171,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/sky.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f3c649",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8197,16 +8197,19 @@
               "color": "#ffffff"
             },
             "TH": {
-              "color": "#ffffff"
+              "color": "#f3c649"
             },
             "TD": {
-              "color": "#735608"
+              "color": "#f3c649"
             },
             "TR": {
               "color": "#ffffff"
             },
             ".mbr-section-title SPAN": {
               "color": "#80541d"
+            },
+            ".mbr-section-title I": {
+              "color": "#f3c649"
             }
           },
           "_anchor": "extTable1-4x"
@@ -8217,7 +8220,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.vagaro.com/theeasthillspa/book-now\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK</a> ",
           "_tags": [
             "Theme"
           ],

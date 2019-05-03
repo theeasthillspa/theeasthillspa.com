@@ -3407,7 +3407,7 @@ h6,
   color: #e6ac0c;
 }
 #msg-box5-4w H3 {
-  color: #735608;
+  color: #f3c649;
   font-size: 60px;
 }
 #msg-box5-4w P {
@@ -3415,7 +3415,7 @@ h6,
   color: #735608;
 }
 #msg-box5-4w DIV {
-  color: #735608;
+  color: #f3c649;
   font-size: 60px;
 }
 #extTabs1-51 P {
@@ -3431,14 +3431,17 @@ h6,
   color: #ffffff;
 }
 #extTable1-4x TH {
-  color: #ffffff;
+  color: #f3c649;
 }
 #extTable1-4x TD {
-  color: #735608;
+  color: #f3c649;
 }
 #extTable1-4x TR {
   color: #ffffff;
 }
 #extTable1-4x .mbr-section-title SPAN {
   color: #80541d;
+}
+#extTable1-4x .mbr-section-title I {
+  color: #f3c649;
 }
