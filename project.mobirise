@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "Lashes.html",
+    "currentPage": "BodyTreatments.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -182,7 +182,7 @@
             "overlay": true,
             "overlayColor": "#8d796e",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">Book Now</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">Book</a>"
           },
           "title": "Get in touch",
           "title1": "Don't hesitate to contact us",
@@ -4126,7 +4126,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">Book Now</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">Book</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -5891,9 +5891,9 @@
             "timeout": "5",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "showBullets": false,
+            "showBullets": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-23-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x753.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -5902,8 +5902,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3",
+            "overlayColor": "#cccccc",
+            "overlayOpacity": "0.5",
             "slides": [
               {
                 "active": false,
@@ -5936,7 +5936,7 @@
                 }
               },
               {
-                "active": false,
+                "active": true,
                 "text": "<p>\n</p><div>REDUCES STRESS AND FATIGUE</div><div>Enjoy the release as you melt away any built-up tension and stress. Just a few minutes in the gentle warmth of our FAR infrared sauna cocoon will help you feel relaxed, rejuvenated and renewed.</div>",
                 "authorName": "Suffian A.",
                 "authorBio": "User",
@@ -5951,7 +5951,7 @@
                 }
               },
               {
-                "active": true,
+                "active": false,
                 "text": "<p>\n</p><div>\n</div><div>\n</div><div>BOOSTS IMMUNE SYSTEM</div><div>The deep heating from the Infrared sauna cocoon will raise your core body temperature, inducing an artificial fever. This enhanced immune system, combined with improved elimination of toxins and wastes via intense sweating, increases your overall health and resistance to disease.</div><div><span style=\"font-size: 1.125rem;\"></span></div>",
                 "authorName": "John Smith",
                 "authorBio": "Developer",
