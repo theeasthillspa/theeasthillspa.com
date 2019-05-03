@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "Lashes.html",
+    "currentPage": "sugaringandwaxing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -182,7 +182,7 @@
             "overlay": true,
             "overlayColor": "#8d796e",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">Book Now</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK</a>"
           },
           "title": "Get in touch",
           "title1": "Don't hesitate to contact us",
@@ -4126,7 +4126,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">Book Now</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -8183,7 +8183,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.4
           },
-          "title": "<i>Sugaring &amp; Waxing</i>",
+          "title": "Sugaring &amp; Waxing",
           "search": "Search:",
           "info1": "Showing",
           "info2": "entries",
@@ -8197,7 +8197,7 @@
           "_name": "extTable1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#f3c649"
             },
             "TH": {
               "color": "#f3c649"
