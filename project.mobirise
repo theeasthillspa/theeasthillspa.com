@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "spraytan.html",
+    "currentPage": "Lashes.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -182,7 +182,7 @@
             "overlay": true,
             "overlayColor": "#8d796e",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK NOW</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">Book Now</a>"
           },
           "title": "Get in touch",
           "title1": "Don't hesitate to contact us",
@@ -4126,7 +4126,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK NOW</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">Book Now</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -7477,7 +7477,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1279.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -7489,7 +7489,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "<span style=\"font-weight: normal;\"><i>Lash Lift &amp; Tint</i></span>",
-          "caption": "<p>Dramatically beautiful lashes in the blink of an eye</p>",
+          "caption": "<p>Envious lashes&nbsp;<span style=\"font-size: 1.07rem;\">in the blink of an eye</span></p>",
           "_tags": [
             "Theme"
           ],
