@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#a17d1e",
         "#232323",
         "#7d6339",
         "#1e1600",
         "#ffdd59",
         "#543f04",
-        "#735608",
-        "#ffe374"
+        "#735608"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -8183,7 +8183,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.4
           },
-          "title": "Sugaring &amp; Waxing",
+          "title": "<i>Sugaring &amp; Waxing</i>",
           "search": "Search:",
           "info1": "Showing",
           "info2": "entries",
@@ -8197,7 +8197,7 @@
           "_name": "extTable1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f3c649"
+              "color": "#a17d1e"
             },
             "TH": {
               "color": "#f3c649"
