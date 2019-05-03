@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "termsofservice.html",
+    "currentPage": "spraytan.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -182,7 +182,7 @@
             "overlay": true,
             "overlayColor": "#8d796e",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK NOW</a>"
           },
           "title": "Get in touch",
           "title1": "Don't hesitate to contact us",
@@ -4126,7 +4126,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK NOW</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -4453,6 +4453,9 @@
             },
             ".wraper": {
               "border-color": "#f3c649 !important"
+            },
+            ".card-subtitle": {
+              "color": "#ffffff"
             }
           }
         },

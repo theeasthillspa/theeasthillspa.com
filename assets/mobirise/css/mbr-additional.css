@@ -2206,6 +2206,9 @@ h6,
 #extFeatures3-5a .wraper {
   border-color: #f3c649 !important;
 }
+#extFeatures3-5a .card-subtitle {
+  color: #ffffff;
+}
 #extFooter1-58 .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 19px;
