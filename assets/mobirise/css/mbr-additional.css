@@ -2648,17 +2648,11 @@ h6,
   text-align: center;
 }
 #header3-2w .mbr-section-title {
-  color: #f3c649;
+  color: #ffffff;
   font-family: 'Lora', serif;
 }
 #header3-2w .mbr-section-subtitle {
   color: #593c18;
-}
-#extTestimonials2-4v .mbr-section-title {
-  color: #543f04;
-}
-#extTestimonials2-4v .card-block DIV {
-  color: #735608;
 }
 #extFeatures5-2x .mbr-iconfont-features4 {
   color: #e6e6e6 !important;
@@ -2892,6 +2886,28 @@ h6,
   color: #f3c649;
 }
 #extFeatures5-5a P {
+  color: #735608;
+}
+#header3-4v .mbr-section-title,
+#header3-4v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4v .mbr-section-title {
+  color: #ffffff;
+}
+#extFeatures5-4w .mbr-iconfont-features4 {
+  color: #e6e6e6 !important;
+}
+#extFeatures5-4w .wraper {
+  border-color: #e6e6e6 !important;
+}
+#extFeatures5-4w H4 {
+  color: #f3c649;
+}
+#extFeatures5-4w .card-subtitle {
+  color: #f3c649;
+}
+#extFeatures5-4w P {
   color: #735608;
 }
 #extFooter1-k .mbr-section-title SPAN {
