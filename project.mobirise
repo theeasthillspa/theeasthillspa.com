@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "sugaringandwaxing.html",
+    "currentPage": "BodyTreatments.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -21,19 +21,19 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#3b2c03",
         "#1e1600",
         "#ffdd59",
         "#543f04",
         "#735608",
         "#ffe374",
-        "#f9f5f0"
+        "#f9f5f0",
+        "#fff6d2"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 177,
+    "uniqCompNum": 174,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -1471,9 +1471,9 @@
             "bgColorRadio": true,
             "bgColor": "#f3c649",
             "bgText": "You're in good hands!",
-            "bgTextStyle": "Lora",
+            "bgTextStyle": "Montserrat",
             "bgTextColor": "#e9b72d",
-            "bgTextSize": "100",
+            "bgTextSize": "50",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1482,7 +1482,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "<i>Frequently Asked Questions</i>",
+          "title": "<i style=\"font-weight: normal;\">Frequently Asked Questions</i>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
@@ -1525,7 +1525,7 @@
             "overlayColor": "#544c4c",
             "overlayOpacity": "0.8"
           },
-          "title": "<br><i>Oncology Massage</i><br><div><br></div><div>\"In massage therapy we show up and ask, in so many ways, what is it like to be another human being?\n</div><div>In doing so we create a bridge that may heal us both\" </div><div>-Tracy Walton</div><div>\n</div>",
+          "title": "<i>Oncology Massage</i><br><div><br></div><div>\"In massage therapy we show up and ask, in so many ways, what is it like to be another human being?\n</div><div>In doing so we create a bridge that may heal us both\" </div><div>-Tracy Walton</div><div>\n</div>",
           "title1": "<a role=\"button\" class=\"text-primary\" data-toggle=\"collapse\" data-parent=\"#accordion_70\" data-core=\"\" href=\"#collapseOne_70\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>What is Oncology Massage?</b></a>",
           "title2": "<a role=\"button\" class=\"text-primary\" data-toggle=\"collapse\" data-parent=\"#accordion_25\" data-core=\"\" href=\"#collapseTwo_25\" aria-expanded=\"true\" aria-controls=\"collapseTwo\"><b>What are the benefits of Oncology Massage?</b></a>",
           "title3": "<a role=\"button\" class=\"text-primary\" data-toggle=\"collapse\" data-parent=\"#accordion_25\" data-core=\"\" href=\"#collapseThree_25\" aria-expanded=\"true\" aria-controls=\"collapseThree\"><b>Is massage therapy safe for people living with cancer?</b></a>",
@@ -1758,9 +1758,9 @@
             "bgColorRadio": true,
             "bgColor": "#f3c649",
             "bgText": "You're in good hands!",
-            "bgTextStyle": "Lora",
+            "bgTextStyle": "Montserrat",
             "bgTextColor": "#e9b72d",
-            "bgTextSize": "100",
+            "bgTextSize": "50",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1769,7 +1769,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "<i>Frequently Asked Questions</i>",
+          "title": "<i style=\"font-weight: normal;\">Frequently Asked Questions</i>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
@@ -3346,13 +3346,13 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">BOOK</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
           "subTitle1": "you're in good hands!",
           "text1": "<b>Phone:</b><a href=\"tel:850-332-5527\" class=\"text-warning\"> (850) 332-5527</a><br><b> Email: </b><a href=\"mailto:ingoodhands@theeasthillspa.com\" class=\"text-warning\">ingoodhands@theeasthillspa.com</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get in touch</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-form1",
@@ -3415,29 +3415,37 @@
           }
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#d9a71e"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#e6ac0c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "bgColor": "#d9a71e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "Copyright (c) 2018 East Hill Massage and Aesthetics, LLC.",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-4v",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/theeasthillspa\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/theeasthillspa\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/theeasthillspa\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/raepetersen/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-4z"
         }
       ]
     },
@@ -3566,8 +3574,8 @@
             "paddingBottom": "2",
             "bgColor": "#f7da64"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Airbrush Spray Tanning</i></span>",
-          "meta": "<span style=\"font-style: normal;\">Premium solutions artistically applied for beautifully bronzed skin. </span><br>",
+          "title": "Airbrush Spray Tanning",
+          "meta": "Premium solutions artistically applied for beautifully bronzed skin. <br>",
           "_tags": [
             "Theme"
           ],
@@ -3858,9 +3866,9 @@
             "bgColorRadio": true,
             "bgColor": "#f3c649",
             "bgText": "You're in good hands!",
-            "bgTextStyle": "Lora",
+            "bgTextStyle": "Montserrat",
             "bgTextColor": "#e9b72d",
-            "bgTextSize": "100",
+            "bgTextSize": "50",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3869,7 +3877,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "<i>Frequently Asked Questions</i>",
+          "title": "<i style=\"font-weight: normal;\">Frequently Asked Questions</i>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
@@ -4197,7 +4205,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
@@ -4205,9 +4213,9 @@
             "bgColorRadio": true,
             "bgColor": "#f3c649",
             "bgText": "You're in good hands!",
-            "bgTextStyle": "Lora",
+            "bgTextStyle": "Montserrat",
             "bgTextColor": "#e9b72d",
-            "bgTextSize": "100",
+            "bgTextSize": "50",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4216,7 +4224,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "<i>Frequently Asked Questions</i>",
+          "title": "<i style=\"font-weight: normal;\">Frequently Asked Questions</i>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
@@ -4478,7 +4486,7 @@
             },
             ".mbr-section-title": {
               "color": "#8f5915",
-              "font-size": "46px"
+              "font-size": "48px"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
@@ -5088,7 +5096,7 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#f3c649"
           },
@@ -5302,10 +5310,10 @@
           },
           "title1": "Fast Results: Brilliant Booty\n",
           "subtitle1": "30 minutes ~ $55",
-          "caption1": "Put your backside in the spotlight with this \"facial on the flipside.\" It starts with a deep cleanse and exfoliation, followed by a relaxing aromatherapy rubdown and targeted treatment customized to your skin's needs. We'll finish with a mask designed to brighten, smooth and re-energize so you're ready to show a little more skin!\n<br>",
+          "caption1": "Put your booty in the spotlight with this \"facial on the flipside.\" It starts with a deep cleanse and exfoliation, followed by a targeted treatment customized to your skin's needs. We'll finish with a mask designed to brighten, smooth, and re-energize so you're ready to show a little more skin!\n<br>",
           "title2": "Cellulite treatment",
           "subtitle2": "20 minutes ~ $35 or Package of 4 ~ $100<br>",
-          "caption2": "This therapy utilizes glass or polycarbonate cups to create suction and thus seperating the tissue layers. The cups are moved over the skin using gliding, shaking, popping and rotating techniques while gently pulling up on the cup which causes a reduction in stubborn bloat, breaks up the cellulite, and changes the texture of the skin (with repeated use).",
+          "caption2": "This therapy utilizes glass or polycarbonate cups to create suction, seperating the tissue layers. The cups are moved over the skin using gliding, shaking, popping and rotating techniques while gently pulling up on the cup which causes a reduction in stubborn bloat, breaks up the cellulite, and changes the texture of the skin.",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -7005,10 +7013,10 @@
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
           "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-51\" aria-expanded=\"true\">Sugaring</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-danger\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-51\" aria-expanded=\"false\">Waxing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-51\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-51\">Beautiful</a></li>",
-          "text1": "Sugaring is a form of hair removal that dates back to the civilizations of ancient Mesopotamia, Egypt, and Greece. The sugar paste we use is made solely of sugar, water, and citric acid. It’s completely organic and all natural. Because there are no harsh chemicals and no chemicals can be added to the sugar paste, this is an excellent option for those with sensitive skin, those who are prone to skin irritation, or simply those who advocate for a more natural approach to life. Since sugar paste is water soluble, it won’t stick to live skin cells because of the high water content. Leaving the live skin cells intact, means less irritation for your beautiful skin. Sugaring leaves skin feeling soft and smooth!\n<br>\n<br><b>Pros of sugaring:\n</b><br>-Clients who prefer sugaring say that sugaring hurts less than waxing. \n<br>-Sugaring is more natural and gentle on the skin. \n<br>-Sugaring lasts just as long as waxing- sometimes even longer! \n<br>-Sugar is a purely organic paste made with only 3 ingredients- sugar, citric acid, and water. \n<br>-The melting point of sugar is lower than wax, therefore it does not feel as hot on your skin.\n<br>-Sugaring has the ability to remove much shorter hair than waxing–about 1/8 of an inch.\n<br>\n<br>\nStill have questions? Check out the \"<a href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a>\" section of our FAQ tab or give us a call at <a href=\"tel:850-332-5527\">850-332-5527</a> for a free, no obligation consult.<br><br>Ask your aesthetician about sugaring... \n<br>We love it &amp; we know you will too!&nbsp;",
+          "text1": "Sugaring is a form of hair removal that dates back to the civilizations of ancient Mesopotamia, Egypt, and Greece. The sugar paste we use is made solely of sugar, water, and citric acid. It’s completely organic and all natural. Because there are no harsh chemicals, this is an excellent option for those with sensitive skin, those who are prone to skin irritation, or simply those who advocate for a more natural approach to life. Sugar paste is water soluble so it won’t stick to the skin. Leaving the live skin cells intact means less irritation for your beautiful skin!&nbsp;<br>\n<br><b>Pros of sugaring:\n</b><br>-Clients who prefer sugaring say that sugaring hurts less than waxing. <br>-Sugaring lasts just as long as waxing- sometimes even longer! <br>-The melting point of sugar is lower than wax, therefore it does not feel as hot on your skin.\n<br>-Sugaring has the ability to remove much shorter hair than waxing–about 1/8 of an inch.\n<br>\n<br>\nStill have questions? Check out the \"<a href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a>\" section of our FAQ tab or give us a call at <a href=\"tel:850-332-5527\">850-332-5527</a> for a free, no obligation consult.<br><br><i>Ask your aesthetician about sugaring... \n<br>We love it &amp; we know you will too!&nbsp;</i>",
           "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "text4": "Waxing is hair removal that uses soy wax to remove body hair from its root, so lasts longer than shaving. It involves applying hot wax to hair in the direction of hair growth using an applicator stick. A cloth strip is then applied firmly on top of the wax, which is then pulled quickly against the direction of growth for removal. This process gives your skin a wonderful exfoliation, removing dead and lifeless layers of skin and promoting cell turnover. Waxing can last up to 2 weeks before new hair grows back in. To wax again, you need to wait until the new hairs grow 1/4 inch otherwise the wax will not be able to grab the hairs to remove hair. At East Hill Massage and Aesthetics we proudly use all natural and pure organic soy wax that is enriched with Vitamin E and other wholesome nutrients to maximize hair removal and protect the skin. \n<br>\n<br>Still have questions? Check out the \"<a href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a>\" section of our FAQ tab or give us a call at <a href=\"tel:850-332-5527\">850-332-5527 </a>for a free, no obligation consult.&nbsp;",
+          "text4": "Waxing is hair removal that uses soy wax to remove body hair from its root so it lasts longer than shaving. This process gives your skin a wonderful exfoliation, removing dead and lifeless layers of skin and promoting cell turnover. Waxing can last up to 2 weeks before new hair grows back. To wax again, you need to wait until the new hairs grow 1/4 inch otherwise the wax will not be able to grab the hairs to remove hair. At East Hill Massage and Aesthetics we proudly use all natural and organic soy wax that is enriched with Vitamin E and other wholesome nutrients to maximize hair removal and protect the skin. \n<br>\n<br>Still have questions? Check out the \"<a href=\"FAQsugaring.html\">Sugaring &amp; Waxing</a>\" section of our FAQ tab or give us a call at <a href=\"tel:850-332-5527\">850-332-5527 </a>for a free, no obligation consult.&nbsp;",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "alias": "mobirise3-blocks/components",
@@ -7208,55 +7216,36 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showContacts": true,
-            "showSubtitle": true,
+            "showTitle": false,
             "showText": true,
-            "showIcons": true,
-            "showForm": true,
-            "inverse": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "googleMap": {
-              "address": "2045 N 12th Ave\nPensacola, FL 32503",
-              "placeId": "ChIJK_mBlJPAkIgRAsahzO2ikAo",
-              "state": "ok",
-              "stateDetails": ""
-            },
+            "showButtons": false,
+            "showFormTitle": true,
+            "showFormSubtitle": false,
+            "inverse": false,
+            "showArrow": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1234.jpg",
+            "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#f3c649",
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#8d796e",
-            "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">BOOK</a>"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.8"
           },
-          "title": "Get in touch",
-          "title1": "Don't hesitate to contact us",
-          "subTitle1": "Let us know how we can help",
-          "text1": "<p><a href=\"tel:+1-850-332-5527\"></a><b><a href=\"tel:+1-850-332-5527\">Phone-&nbsp;</a></b><a href=\"tel:+1-850-332-5527\">(850) 332-5527&nbsp;</a><br><b> <a href=\"mailto:ingoodhands@theeasthillspa.com\">Email-&nbsp;</a></b><a href=\"mailto:ingoodhands@theeasthillspa.com\">ingoodhands@theeasthillspa.com</a></p>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-form1",
-              "linkInNewWindow": false,
-              "name": "hands-with-rings",
-              "family": "icon54-v4",
-              "active": true,
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
+          "title": "OUR PHILOSOPHY",
+          "formTitle": "<span style=\"font-weight: normal;\">GET IN TOUCH</span>",
+          "formSubtitle": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>If you would like to get in touch without the wait, please call <a href=\"tel:850-332-5527\">850-332-5527</a>&nbsp;within normal business hours.",
+          "text": "<p><a href=\"mailto:ingoodhands@theeasthillspa.com\"></a><a href=\"mailto:ingoodhands@theeasthillspa.com\"></a>It is our pleasure to answer any questions you may have. Please let us know how we can help and one of our team members will get back with you as quickly as possible.<br><br>East Hill Massage and Aesthetics<br><a href=\"CONTACT.html#map1-55\">2045 N 12th Ave. Pensacola FL 32503</a><br><a href=\"mailto:ingoodhands@theeasthillspa.com\">ingoodhands@theeasthillspa.com</a><br><a href=\"tel:850-332-5527\">(850) 332-5527</a></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
           "form": {
             "action": "ingoodhands@theeasthillspa.com",
             "alerts": {
-              "success": "Thank you!"
+              "success": "Thanks for reaching out! Someone will be in touch as soon as possible!"
             },
             "fields": {
               "name": {
@@ -7277,7 +7266,7 @@
               "message": {
                 "visible": true,
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },
@@ -7285,37 +7274,91 @@
           "_tags": [
             "Extension"
           ],
-          "_name": "extForm3",
-          "_anchor": "extForm3-14",
+          "_name": "extHeader9",
+          "_anchor": "extHeader9-54",
           "_styles": {
-            "H2": {
-              "color": "#f7da64",
-              "font-size": "60px"
-            },
-            ".intro-box h4": {
-              "color": "#ffffff",
-              "font-size": "21px"
-            },
-            "SPAN": {
-              "color": "#f3c649"
-            },
             "P": {
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "22px"
             },
-            ".intro-box h5": {
-              "color": "#f7da64",
-              "font-size": "15px"
-            },
-            ".intro-box h4 SPAN": {
-              "color": "#f7da64"
-            },
-            "B": {
-              "color": "#ffffff"
+            "H3": {
+              "font-size": "46px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "36px",
+              "color": "#d9a71e"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#d9a71e",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">We are convienently located in the heart of East Hill</span>",
+          "meta": "2045 N 12th Ave. Pensacola FL 32503",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5b"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "2045 N 12th Ave. Pensacola FL 32503",
+              "placeId": "ChIJK_mBlJPAkIgRAsahzO2ikAo",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-55"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#d9a71e"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1267.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#3b2c03",
+            "overlayOpacity": "0.9"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/theeasthillspa\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-5a"
         }
       ]
     },

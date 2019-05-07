@@ -1816,7 +1816,14 @@ h6,
 #extForm3-4x P {
   color: #6c4616;
 }
-#footer1-4v P {
+#social-buttons4-4z .mbr-section-title,
+#social-buttons4-4z .btn-social {
+  color: #fff;
+}
+#social-buttons4-4z .mbr-section-title SPAN {
+  color: #d9a71e;
+}
+#social-buttons4-4z .mbr-section-title {
   color: #ffffff;
 }
 
@@ -2238,7 +2245,7 @@ h6,
 }
 #msg-box3-4z .mbr-section-title {
   color: #8f5915;
-  font-size: 46px;
+  font-size: 48px;
 }
 #msg-box3-4z .lead P {
   font-family: 'Lora', serif;
@@ -2912,7 +2919,6 @@ h6,
 }
 
 
-
 #menu-12 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2981,31 +2987,33 @@ h6,
 #menu-12 .btn {
   font-size: 13px;
 }
-#extForm3-14 H2 {
-  color: #f7da64;
-  font-size: 60px;
-}
-#extForm3-14 .intro-box h4 {
+#extHeader9-54 P {
   color: #ffffff;
-  font-size: 21px;
+  font-size: 22px;
 }
-#extForm3-14 SPAN {
-  color: #f3c649;
+#extHeader9-54 H3 {
+  font-size: 46px;
 }
-#extForm3-14 P {
-  color: #ffffff;
-  font-family: 'Lora', serif;
-  font-size: 16px;
+#header3-5b .mbr-section-title,
+#header3-5b .mbr-section-subtitle {
+  text-align: center;
 }
-#extForm3-14 .intro-box h5 {
-  color: #f7da64;
-  font-size: 15px;
+#header3-5b .mbr-section-title {
+  text-align: center;
+  font-size: 36px;
+  color: #d9a71e;
 }
-#extForm3-14 .intro-box h4 SPAN {
-  color: #f7da64;
+#header3-5b .mbr-section-subtitle {
+  color: #d9a71e;
+  font-size: 20px;
 }
-#extForm3-14 B {
-  color: #ffffff;
+#social-buttons2-5a .mbr-section-title,
+#social-buttons2-5a .btn-social {
+  color: #232323;
+}
+#social-buttons2-5a .mbr-section-title {
+  font-size: 48px;
+  color: #d9a71e;
 }
 
 
