@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "CONTACT.html",
+    "currentPage": "blogs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1145,7 +1145,7 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/skinreading-5-2000x1128.jpg",
@@ -3346,7 +3346,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">SEND</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SEE ALL TEMPLATES</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
