@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "BodyTreatments.html",
+    "currentPage": "CONTACT.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3346,7 +3346,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\">BOOK</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">SEND</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
